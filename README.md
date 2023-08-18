@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+![image](https://github.com/marvrodriguez/configure-active-directory/assets/141983161/cb547ff3-073e-4a5a-978c-23c2cf5ec39e)
+
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
@@ -20,10 +19,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Domain Controller VM (Windows Server 2022) named "DC-1"
+- Domain Controller's NIC Private IP address to be static
+- ICMPv4 (ping) was allowed on the Domain Controller
+- Create an Admin and Normal User Account in Active Directory
+- Join Client to domain
+- Attempt to login CLient-1 with one of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
