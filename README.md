@@ -144,5 +144,5 @@ When credentials are asked for just enter the local admin account or mydomain.co
 Log in to DC-1 as jane_admin, and go to the search bar and search for Powershell ISE and run as administrator, Create a new File and paste the contents of the script
 
 
-
+[pre-configures script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
 
