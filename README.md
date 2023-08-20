@@ -140,9 +140,3 @@ When credentials are asked for just enter the local admin account or mydomain.co
 
 ![image](https://github.com/marvrodriguez/configure-active-directory/assets/141983161/a992b2f7-d89e-4973-9c46-9d975cd68b16)
 
-#### Create additional users and attempt to log into Client-1 with one of the users
-Log in to DC-1 as jane_admin, and go to the search bar and search for Powershell ISE and run as administrator, Create a new File and paste the contents of the script
-
-
-[pre-configures script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
-
